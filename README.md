@@ -6,9 +6,10 @@
 Hi there, I'm Ankit Sahu, An aspiring AI Engineer and BCA student passionate about building intelligent solutions.
 
 ## Skills
-• Python
-• C (Basic) 
-• Prompt Engineering (Basic) 
+![Static Badge](https://img.shields.io/badge/Python-Mastery-blue?logo=python)
+![Static  Badge](https://img.shields.io/badge/-Basic-green?logo=C)  
+![Static Badge](https://img.shields.io/badge/Prompt%20Engineering-lightgrey?logo=google-gemini)
+
 
 ## Currently Learning
 • Python (Mastery) 
